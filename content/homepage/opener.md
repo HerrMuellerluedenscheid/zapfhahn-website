@@ -3,4 +3,4 @@ title: "Willkommen"
 weight: 1
 ---
 
-Wir freuen uns diese Jahr unser 25 jähriges Jubiläum mit Ihnen feiern zu dürfen.
+Weine aus aller Welt, feine Öle und Essige und charismatische Whiskeys und Gins - Wir führen ein breites Sortiment an Artikeln die einem feinem Gaumen schmeicheln.
