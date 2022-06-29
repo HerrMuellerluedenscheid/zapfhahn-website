@@ -20,7 +20,7 @@ jobs:
         run: hugo
 
       - name: Debug
-        run: ls public
+        run: ls public/index.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
