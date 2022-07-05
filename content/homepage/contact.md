@@ -3,7 +3,7 @@ title: "Kontakt"
 weight: 5
 header_menu: true
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neue Straße 35 | 14197 Celle
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neue Straße 35 | 29221 Celle
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{<icon class="fa fa-envelope">}}&nbsp;[info@zapfhahn-celle.de](mailto:info@zapfhahn-celle.de)
 

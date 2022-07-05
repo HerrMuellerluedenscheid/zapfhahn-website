@@ -4,9 +4,9 @@ weight: 2
 header_menu: true
 ---
 
-Wir freuen uns dieses Jahr unser **25-jähriges Jubiläum** mit Ihnen feiern zu dürfen.
+Wir freuen uns dieses Jahr unser **25-jähriges Jubiläum** mit Ihnen am 9. Juli feiern zu dürfen.
 
-![laden](images/laden-small.jpg)
+![25 Jahre Zapfhahn](images/25-jahre-zapfhahn.jpg)
 
 ---
 
